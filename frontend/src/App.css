@@ -1,0 +1,44 @@
+.container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.complaint-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.complaint-form input,
+.complaint-form select,
+.complaint-form textarea {
+  padding: 8px;
+  font-size: 14px;
+}
+
+.complaint-form button {
+  padding: 10px;
+  background-color: #2b6cb0;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.complaint-card {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.complaint-card button {
+  margin-left: 10px;
+  background-color: #e53e3e;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  cursor: pointer;
+}
