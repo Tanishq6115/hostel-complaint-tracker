@@ -2,6 +2,10 @@
 
 A full-stack MERN web application that lets students log hostel-related complaints (electrical, plumbing, wifi, etc.) and track their resolution status in real time.
 
+## Preview
+
+![App Screenshot](./screenshots/app-preview.png)
+
 ## Features
 - Submit complaints with category, room number, and description
 - View all submitted complaints in a live-updating list
